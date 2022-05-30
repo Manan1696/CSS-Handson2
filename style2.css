@@ -1,0 +1,247 @@
+#line1{
+    border-left-color:darkred;
+    border-bottom-color:yellow;
+    border-right-color: yellow;
+    border-top-color:darkred;
+    border-style:solid;
+    border-width:3px;
+    background-image: url(asd.jpg);
+    width :auto;
+    height: auto;
+}
+
+#line2{
+    border-style: solid;
+    border-left-color:yellow;
+    border-bottom-color:darkred;
+    border-right-color:darkred;
+    border-top-color:yellow;
+}
+
+
+
+#top1{
+    border:solid red;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left:20px;
+    position: relative;
+    border-width:6px;
+    margin-bottom: 35px;
+    margin-right: 10px;
+    margin-left:20px;
+    position: relative;
+    width:30%;
+    line-height:30px;
+    background-color: black;
+    font-size: 30px;
+    font-style: italic;
+    text-align: center;
+    border-radius: 40px;
+    color:white;
+    
+}
+
+#top2{
+    border:solid red;
+     margin-bottom:100px;
+    margin-right: 10px;
+    border-width: 6px;
+    background-color:black;
+    top:12px;
+    right:150px;
+    position: relative;
+    width:30%;
+    line-height:20px;
+    font-size:30px;
+    font-style: italic;
+    border-radius: 40px;
+    color:white;
+    text-align:center;
+    padding-left:100px;
+    padding-right:40px;
+    padding-top:10px;
+  
+}
+
+#top3{
+    border:solid red;
+    font-size: 30px;
+    font-style: italic;
+    border-radius: 40px;
+    text-align: center;
+    border-width: 6px;
+    padding-bottom: 5px;
+    width:40%;
+    line-height:26px;
+    background-color: black;
+    color: white;
+    margin-right:10px;
+}
+
+.section1{
+    display:flex;
+    margin-top: 50px;
+}
+
+
+#circle{
+    border:solid gray;
+    border-width: 10px;
+    border-radius: 50%;
+    background-color:#13cabbf7;
+    margin: auto;
+    margin-left: 100px;
+    margin-right: 160px;
+    padding-top: 60px;
+    padding-bottom: 100px;
+    text-decoration:underline;
+    font-size:22px;
+    font-style: italic;
+    text-align: center;
+    width:380px;
+    height:240px;
+    
+}
+
+    
+
+#form1{
+    border: dashed;
+    border-width: 6px;
+    border-color: red;
+    text-align: center;
+    width: 350px;
+    font-size: 18px;
+    padding-bottom: 15px;
+}
+
+h1{
+    color:#EC7063;
+}
+
+label{
+    color: #EC7063;
+}
+
+::placeholder{
+    text-align: center;
+}
+
+.section2{
+    display:flex;
+    margin-top: 80px;
+    margin-bottom: 60px;
+
+}
+
+#topmenu{
+    border:solid;
+    width:500px;
+    height:50px;
+    padding-top: 8px;
+    padding-bottom:8px;
+    background-color: black;
+    border-color: red;
+    border-width: 6px;
+    border-radius:60px;
+    font-style: italic;
+    color: white;
+    font-size:40px;
+    text-align: center;
+    margin: auto;
+}
+
+#box1{
+    border: solid;
+    width : 300px;
+    height: 255px;
+    border-color:darkgreen;
+    font-size: 18px;
+    text-align: center;
+    background-color: aqua;
+    color:blueviolet;
+    border-width: 3px;
+    border-radius: 20px;
+}
+
+#box2{
+    border: solid;
+    width : 300px;
+    height: 255px;
+    border-color:darkgreen;
+    font-size: 18px;
+    text-align: center;
+    background-color: aqua;
+    color:blueviolet;
+    border-width: 3px;
+    border-radius: 20px;
+}
+
+#box3{
+    border: solid;
+    width : 300px;
+    height: 255px;
+    border-color:darkgreen;
+    font-size: 18px;
+    text-align: center;
+    background-color: aqua;
+    color:blueviolet;
+    border-width: 3px;
+    border-radius: 20px;
+}
+
+#box4{
+    border: solid;
+    width : 300px;
+    height: 255px;
+    border-color:darkgreen;
+    font-size: 18px;
+    text-align: center;
+    background-color: aqua;
+    color:blueviolet;
+    border-width: 3px;
+    border-radius: 20px;
+}
+
+#box5{
+    border: solid;
+    width : 300px;
+    height: 255px;
+    border-color:darkgreen;
+    font-size: 18px;
+    text-align: center;
+    background-color: aqua;
+    color:blueviolet;
+    border-width: 3px;
+    border-radius: 20px;
+}
+
+#box6{
+    border: solid;
+    width : 300px;
+    height: 255px;
+    border-color:darkgreen;
+    font-size: 18px;
+    text-align: center;
+    background-color: aqua;
+    color:blueviolet;
+    border-width: 3px;
+    border-radius: 20px;
+}
+
+.uppart{
+    display:flex;
+    justify-content:space-around;
+    margin-top: 40px;
+}
+
+.downpart{
+    display:flex;
+    justify-content:space-around;
+    margin-top: 40px;
+    padding-bottom: 20px;
+
+}
+
+
